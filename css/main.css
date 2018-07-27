@@ -311,3 +311,30 @@ textarea {
 .subNav ul{
   height: 75px;
 }
+
+.logoPhotoshop{
+  width: 52px;
+
+}
+
+.fixedHeight,
+.fixedHeight h2{
+  font-size: 12px;
+}
+
+.fixedHeight{
+  height: 300px;
+  max-height: 400px;
+}
+
+.fixedHeight h2{
+  font-weight: bold;
+}
+
+.photoshopCard{
+  width: 50px;
+}
+
+.chevronDroite i{
+  color: #dcdcdc;
+}

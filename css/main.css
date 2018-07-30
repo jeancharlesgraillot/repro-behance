@@ -292,13 +292,9 @@ textarea {
   background-color: #191919;
 }
 
-/* .colorWhite{
-  color: white!important;
-} */
-
-/*.colorWhite li a{
-  color: white!important;
-}*/
+.colorGrey{
+  color: #616969;
+}
 
 .colorWhite{
   color: white;
@@ -306,10 +302,19 @@ textarea {
 
 /******************************Header******************************************/
 
+main a{
+  text-decoration: none!important;
+  color: black;
+}
+
 .navBeforeLg,
 .navLg,
 .subNav ul{
   height: 75px;
+}
+
+.subNav{
+  overflow-y: hidden;
 }
 
 .logoPhotoshop{
@@ -323,8 +328,8 @@ textarea {
 }
 
 .fixedHeight{
-  height: 300px;
-  max-height: 400px;
+  height: 350px;
+  max-height: 450px;
 }
 
 .fixedHeight h2{
@@ -337,4 +342,13 @@ textarea {
 
 .chevronDroite i{
   color: #dcdcdc;
+}
+
+.footerBottom{
+
+  border-top: 1px solid #999c9f;
+}
+
+.footerBottomBottom{
+  font-size: 10px;
 }

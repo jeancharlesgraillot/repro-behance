@@ -292,6 +292,23 @@ textarea {
   background-color: #191919;
 }
 
+.colorClearGrey{
+  color: #919191;
+}
+
+.colorInactive{
+  color: #999c9f;
+}
+
+.backgroundInactive{
+  background-color: #999c9f;
+}
+
+
+.backgroundWhite{
+  background-color: white;
+}
+
 .colorGrey{
   color: #616969;
 }
@@ -351,4 +368,41 @@ main a{
 
 .footerBottomBottom{
   font-size: 10px;
+}
+
+/******************************Joblist*****************************************/
+
+.postJob{
+  border-radius: 30px;
+}
+
+.jobsSearch{
+  border: 1px solid #919191;
+}
+
+.borderLeft{
+  border-left: 1px solid #919191;
+}
+
+.jobListing{
+  border: 1px solid #e8e8e8;
+}
+
+.filtersContainer{
+  border: 1px solid #e8e8e8;
+}
+
+.filtersContainer h3{
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 22px;
+  max-width: 100%;
+  padding: 0 0 5px;
+
+}
+
+.location,
+.creativeField,
+.searchByCompany{
+  border-top: 1px solid #e8e8e8;
 }
